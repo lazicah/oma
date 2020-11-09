@@ -1,6 +1,8 @@
 # oma
 
-A new Flutter project.
+An Implementation of a Ui design by Oma Anaele.
+
+(https://github.com/lazicah/oma/blob/master/screenshot.jpg)
 
 ## Getting Started
 
